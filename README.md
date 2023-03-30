@@ -9,7 +9,6 @@ Fast and simple to setup MTProto proxy written in Python.
 3. `docker-compose up -d` (or just `python3 mtprotoproxy.py` if you don't like Docker)
 4. *(optional, get a link to share the proxy)* `docker-compose logs`
 
-![Demo](https://alexbers.com/mtprotoproxy/install_demo_v2.gif)
 
 ## Channel Advertising ##
 
